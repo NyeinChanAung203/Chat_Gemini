@@ -1,6 +1,6 @@
-# chat_bot
+# Chat Gemini
 
-A new Flutter project.
+A New Flutter Chat Application that is using Gemini AI.
 
 ## Getting Started
 
@@ -14,3 +14,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+# Credit
+- Thank [ flutter guy YouTube ](https://www.youtube.com/watch?v=FJUJ9c5u8_c)
